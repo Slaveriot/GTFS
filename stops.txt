@@ -1,0 +1,14 @@
+location_type,parent_station,platform_code,stop_code,stop_desc,stop_id,stop_lat,stop_lon,stop_name,stop_url,vehicle_type,wheelchair_boarding,zone_id
+0, , ,H5111,Knutersintie,1602206,60.282080,25.195992,Degermossa,http://aikataulut.hsl.fi/pysakit/fi/1602206.html,3,0,Ei HSL
+0,,,Si0000,Knutersintie 425,1,60.302408,25.195627,Bakunkärr,http://aikataulut.hsl.fi/pysakit/fi/,3,0,Ei HSL
+0,,,Si0001,Knutersintie 262,2,60.314611,25.199842,Korvenportti,http://aikataulut.hsl.fi/pysakit/fi/,3,0,Ei HSL
+0,,,Si0002,Knutersintie 201,3,60.320410,25.206150,Byabäcken,http://aikataulut.hsl.fi/pysakit/fi/,3,0,Ei HSL
+0, , ,V9719,Lahdentie,4970219,60.314070,25.109850,Kuusijärvi,http://aikataulut.hsl.fi/pysakit/fi/4970219.html,3,0,Ei HSL
+0, , ,V9720,Lahdentie,4970220,60.313070,25.108520,Kuusijärvi,http://aikataulut.hsl.fi/pysakit/fi/4970220.html,3,0,Ei HSL
+0, , ,V9422,Lahdentie,4940222,60.281280,25.102000,Kaskelanrinne,http://aikataulut.hsl.fi/pysakit/fi/4940222.html,3,0,Ei HSL
+0, , ,V9423,Lahdentie,4940223,60.280600,25.101080,Kaskelanrinne,http://aikataulut.hsl.fi/pysakit/fi/4940223.html,3,0,Ei HSL
+0,,10,V6150,Ratatie,4610250,60.293905,25.044436,Tikkurilan matkakeskus,http://aikataulut.hsl.fi/pysakit/fi/4610250.html,3,0,Ei HSL
+0,,3,Si2246,Iso Kylätie,9222246,60.376140,25.267989,Nikkilän terminaali,http://aikataulut.hsl.fi/pysakit/fi/9222246.html,3,0,Ei HSL
+0,,12,H4482,Mellunmäki(M),1472101,60.238300,25.108490,Mellunmäki(M),http://aikataulut.hsl.fi/pysakit/fi/1472101.html,3,0,Ei HSL
+0,,,H5009,Uusi Porvoontie,1600209,60.251682,25.176211,Östersundom,http://aikataulut.hsl.fi/pysakit/fi/1600209.html,3,0,Ei HSL
+0,,,H5010,Uusi Porvoontie,1600210,60.251400,25.173983,Östersundom,http://aikataulut.hsl.fi/pysakit/fi/1600210.html,3,0,Ei HSL

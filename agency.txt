@@ -1,0 +1,2 @@
+agency_email,agency_fare_url,agency_id,agency_name,agency_phone,agency_timezone,agency_url
+info@taksikuljetus.fi ,,1,Taksikuljetus,+358 9 350 5070,Europe/Helsinki,https://www.taksikuljetus.fi/

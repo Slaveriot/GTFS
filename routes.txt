@@ -1,2 +1,0 @@
-agency_id,route_color,route_desc,route_id,route_long_name,route_short_name,route_text_color,route_type,route_url
-1,,,1,Tikkurila-Sipoonkorpi-Mellunmäki,Hop-On,,3,https://www.luontoon.fi/sipoonkorpi

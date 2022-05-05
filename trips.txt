@@ -1,6 +1,0 @@
-bikes_allowed,block_id,cars_allowed,direction_id,route_id,service_id,shape_id,trip_headsign,trip_id,trip_short_name
-,,,0,1,1,1,Sipoonkorpi,1005,Hop Off 16:00 Mellunmäki
-,,,1,1,1,1,Sipoonkorpi,1004,Hop Off 14:30 Tikkurilan matkakeskus
-,,,0,1,1,1,Sipoonkorpi,1003,Hop Off 13:00 Mellunmäki
-,,,1,1,1,1,Sipoonkorpi,1002,Hop Off 10:30 Tikkurilan matkakeskus
-,,,0,1,1,1,Sipoonkorpi,1001,Hop Off 09:00 Mellunmäki
